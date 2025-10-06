@@ -1,30 +1,30 @@
 ### Table 1: Go (Golang) Course Library
 
-| Course Title | Duration (hrs) | Downloadables |
-| :--- | :---: | :---: |
+| Course Title | Duration (hrs) | Downloadables | Link |
+| :--- | :---: | :---: | :--- |
 | **Go Fundamentals** |
-| Learn Go for Beginners Crash Course (Golang) | 11.5 | 2 |
-| Working with Concurrency in Go (Golang) | 9.5 | 74 |
-| Working with Design Patterns in Go (Golang) | 10.5 | 93 |
-| Introduction to Testing in Go (Golang) | 12.5 | 103 |
+| Learn Go for Beginners Crash Course (Golang) | 11.5 | 2 | [Udemy Link](https://www.udemy.com/course/go-programming-language-crash-course/) |
+| Working with Concurrency in Go (Golang) | 9.5 | 74 | [Udemy Link](https://www.udemy.com/course/working-with-concurrency-in-go-golang/) |
+| Working with Design Patterns in Go (Golang) | 10.5 | 93 | [Udemy Link](https://www.udemy.com/course/working-with-design-patterns-in-go-golang/) |
+| Introduction to Testing in Go (Golang) | 12.5 | 103 | [Udemy Link](https://www.udemy.com/course/introduction-to-testing-in-go-golang/) |
 | **Web Development with Go** |
-| Building a module in Go (Golang) | 4.5 | 46 |
-| Building Modern Web Applications with Go (Golang) | 30.0 | 28 |
-| Building Web Applications with Go - Intermediate Level | 19.0 | 153 |
-| Let's Build a Go version of Laravel | 19.5 | 139 |
-| Let's Build a Go version of Laravel: Part Two | 8.0 | 88 |
-| Working with Microservices in Go (Golang) | 11.5 | 78 |
-| Working with WebSockets in Go (Golang) | 14.0 | 1 |
+| Building a module in Go (Golang) | 4.5 | 46 | [Udemy Link](https://www.udemy.com/course/building-a-module-in-go-golang/) |
+| Building Modern Web Applications with Go (Golang) | 30.0 | 28 | [Udemy Link](https://www.udemy.com/course/building-modern-web-applications-with-go/) |
+| Building Web Applications with Go - Intermediate Level | 19.0 | 153 | [Udemy Link](https://www.udemy.com/course/building-web-applications-with-go-intermediate-level/) |
+| Let's Build a Go version of Laravel | 19.5 | 139 | [Udemy Link](https://www.udemy.com/course/lets-build-a-go-version-of-laravel/) |
+| Let's Build a Go version of Laravel: Part Two | 8.0 | 88 | [Udemy Link](https://www.udemy.com/course/lets-build-a-go-version-of-laravel-part-two/) |
+| Working with Microservices in Go (Golang) | 11.5 | 78 | [Udemy Link](https://www.udemy.com/course/working-with-microservices-in-go/) |
+| Working with WebSockets in Go (Golang) | 14.0 | 1 | [Udemy Link](https://www.udemy.com/course/working-with-websockets-in-go/) |
 | **Go with Frontend Frameworks** |
-| Working with React and Go (Golang) | 13.0 | 113 |
-| Working with Vue 3 and Go (Golang) | 15.0 | 145 |
+| Working with React and Go (Golang) | 13.0 | 113 | [Udemy Link](https://www.udemy.com/course/working-with-react-and-go-golang/) |
+| Working with Vue 3 and Go (Golang) | 15.0 | 145 | [Udemy Link](https://www.udemy.com/course/working-with-vue-3-and-go/) |
 | **Specialized Go Applications** |
-| Building 2D Games with Ebitengine in Go (Golang) | 11.0 | 59 |
-| Building GUI Applications with Fyne and Go (Golang) | 6.0 | 56 |
-| Introduction to AI and Machine Learning with Go (Golang) | 36.0 | 170 |
+| Building 2D Games with Ebitengine in Go (Golang) | 11.0 | 59 | [Udemy Link](https://www.udemy.com/course/building-2d-games-with-ebitengen-in-go-golang/) |
+| Building GUI Applications with Fyne and Go (Golang) | 6.0 | 56 | [Udemy Link](https://www.udemy.com/course/building-gui-applications-with-fyne-and-go-golang/) |
+| Introduction to AI and Machine Learning with Go (Golang) | 36.0 | 170 | [Udemy Link](https://www.udemy.com/course/introduction-to-ai-and-machine-learning-with-go-golang/) |
 | **Other Topics** |
-| Deploying a Secure Virtual Private Server with Ubuntu 20.04 | 4.5 | 7 |
-| Working with Python - Introductory Level | 8.5 | 54 |
+| Deploying a Secure Virtual Private Server with Ubuntu 20.04 | 4.5 | 7 | [Udemy Link](https://www.udemy.com/course/deploying-a-secure-virtual-private-server-with-ubuntu-2004/) |
+| Working with Python - Introductory Level | 8.5 | 54 | [Udemy Link](https://www.udemy.com/course/working-with-python-introductory-level/) |
 
 **Source:** [gocode.newzenler.com/open-source](https://gocode.newzenler.com/open-source)
 
