@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -37,3 +37,4 @@ func main() {
 // Output:
 // "All clear - monitoring frequencies"
 // "URGENT: Mayday! Engine failure!"
+*/
